@@ -8,3 +8,4 @@ This is a simple repository designed to allow me to keep track of projects from 
 * Added Day 5 code
 * Added Day 6 code - final version only tweaked to have red and blue lights like a police siren
 * Added Day 7 Code
+* Added Day 8 with extra flashy nonsense, speed and brightness are adjusted by the potentiometer
