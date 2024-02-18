@@ -10,3 +10,4 @@ This is a simple repository designed to allow me to keep track of projects from 
 * Added Day 7 Code
 * Added Day 8 with extra flashy nonsense, speed and brightness are adjusted by the potentiometer
 * Added Day 9 with extra dictionary to determine LED colour based on temperature
+* Added Day 10 - with individiual LED Chase instead
